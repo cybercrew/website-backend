@@ -1,0 +1,19 @@
+{
+  "name": "website-backend",
+  "version": "1.0.0",
+  "description": "Backend Server For CyberCrew Webste",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybercrew-dps/website-backend.git"
+  },
+  "author": "meesam4687",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybercrew-dps/website-backend/issues"
+  },
+  "homepage": "https://github.com/cybercrew-dps/website-backend#readme"
+}
