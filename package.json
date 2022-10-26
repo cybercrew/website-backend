@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cybercrew-dps/website-backend/issues"
   },
-  "homepage": "https://github.com/cybercrew-dps/website-backend#readme"
+  "homepage": "https://github.com/cybercrew-dps/website-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
