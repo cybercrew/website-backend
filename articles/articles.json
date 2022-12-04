@@ -1,0 +1,16 @@
+{
+    "articles":[
+        {
+            "title": "Sample Title 1",
+            "content": "LoremIpsumDolorSemet"
+        },
+        {
+            "title": "Sample Title 2",
+            "content": "LoremIpsumDolorSemet"
+        },
+        {
+            "title": "Sample Title 3",
+            "content": "LoremIpsumDolorSemet"
+        }
+    ]
+}
